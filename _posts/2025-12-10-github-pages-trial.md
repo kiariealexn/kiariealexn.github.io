@@ -1,9 +1,9 @@
-"""
+---
 title: "This is just a trial!"
-date: 2025-12-10 12:13:00 +0300
+last modified at: 2025-12-10 12:13:00 +0300
 categories: [cybersec, web]
 tags: [xss,sql-injection]
-"""
+---
 
 Let's explore cybersecurity in this post
 
