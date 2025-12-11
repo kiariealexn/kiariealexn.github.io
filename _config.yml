@@ -66,7 +66,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https:kish-k.github.io//"
+      url: "https://kish-k.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Kishkreezy/"
@@ -91,7 +91,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/simply_am_dope/"
-   - label: "Linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alex-k-4784861a0/"
 
