@@ -1,1 +1,14 @@
+---
+---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Your custom CSS below */
+.page__hero--overlay {
+  background-color: #1a1a2e;
+}
+
+.masthead {
+  background-color: #16213e;
+}
