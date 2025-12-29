@@ -19,7 +19,7 @@
   #Google search results) and in your feed.xml site description.
 twitter_username: Kishkreezy
 github_username: Kish-K
-minimal_mistakes_skin: dirt # Change to one of these:
+minimal_mistakes_skin: neon # Change to one of these:
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
