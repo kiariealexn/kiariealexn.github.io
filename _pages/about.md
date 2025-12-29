@@ -11,3 +11,9 @@ Along the way, I earned my AWS Cloud Practitioner and CCNA certifications, which
 I'm currently learning web development from the ground up, working with HTML, CSS, and JavaScript. This portfolio is my learning journal and a place to showcase the projects I'm building as I grow my skills. I'm particularly interested in how development intersects with cybersecurity and cloud technologies.
 
 <p style="font-size:0.9em">Let's Connect: Feel free to reach out via <a href="https://github.com/kiariealexn" target="_blank" rel="noopener noreferrer">GitHub</a> or <a href="https://www.linkedin.com/in/alex-k-4784861a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Always happy to connect with fellow learners and tech enthusiasts!</p>
+
+    ## My skills
+    ### Technical skills
+    {% include technicalskills.md %}
+    ### Soft skills
+    {% include softskills.md %}
