@@ -12,8 +12,8 @@ I'm currently learning web development from the ground up, working with HTML, CS
 
 <p style="font-size:0.9em">Let's Connect: Feel free to reach out via <a href="https://github.com/kiariealexn" target="_blank" rel="noopener noreferrer">GitHub</a> or <a href="https://www.linkedin.com/in/alex-k-4784861a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Always happy to connect with fellow learners and tech enthusiasts!</p>
 
-    ## My skills
-    ### Technical skills
-    {% include technicalskills.md %}
-    ### Soft skills
-    {% include softskills.md %}
+## My skills
+### Technical skills
+{% include technicalskills.md %}
+### Soft skills
+{% include softskills.md %}
