@@ -7,7 +7,7 @@
 #path: /assets/images/cross-site-scripting-xss.png
 #width: 1200
 #height: 600
-
+layou: archive
 title: "Why I'm Transitioning from Finance to Development"
 date: 2025-12-23 10:00:00 +0300
 categories: [career, personal]
