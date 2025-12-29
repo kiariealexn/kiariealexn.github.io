@@ -14,6 +14,9 @@ I'm currently learning web development from the ground up, working with HTML, CS
 
 ## My skills
 ### Technical skills
+
 {% include technicalskills.md %}
+
 ### Soft skills
+
 {% include softskills.md %}
