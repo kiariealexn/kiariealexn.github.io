@@ -76,7 +76,7 @@ author:
       #url: "https://www.instagram.com/simply_am_dope/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alex-k-4784861a0/"
+      url: "https://linkedin.com/in/alex-k-4784861a0/"
 
 footer:
   links:
@@ -91,7 +91,7 @@ footer:
       #url: "https://instagram.com/simply_am_dope/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alex-k-4784861a0/"
+      url: "https://linkedin.com/in/alex-k-4784861a0/"
 
 defaults:
   # _posts
