@@ -39,13 +39,14 @@ Continuous Learning: Technology moves fast, and I like that. There's always some
 ## Starting from Zero
 I'll be honest - I'm a beginner. I'm learning HTML, CSS, and JavaScript from scratch. This portfolio site you're reading? It's one of my first real projects, and I'm building it to learn.
 But that's the point. Everyone starts somewhere, and I'd rather start now than wonder "what if" five years down the line.
-##What's Next?
+<!--more-->
+## What's Next?
 My plan is simple: build things, break things, learn from both. I'm documenting my journey here - the wins, the struggles, the "why won't this code work" moments at 2 AM.
 I'm particularly interested in exploring:
-*Web development fundamentals
-*Cloud technologies (building on my AWS knowledge)
-*Cybersecurity principles in software design
-*How finance and fintech intersect with development
+  *Web development fundamentals
+  *Cloud technologies (building on my AWS knowledge)
+  *Cybersecurity principles in software design
+  *How finance and fintech intersect with development
 <!--more-->
 If you're on a similar journey, or if you've made a career transition yourself, I'd love to hear about it. Drop me a message on LinkedIn or Twitter.
 Here's to new beginnings and the courage to start from scratch.
