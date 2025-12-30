@@ -4,11 +4,68 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Your custom CSS below */
-.page__hero--overlay {
-  background-color: #1a1a2e;
+/* Custom color overrides */
+$primary-color: #2c3e50; // Main accent color
+$link-color: #3498db; // Link color
+$text-color: #333; // Body text color
+
+/* Custom styles */
+.masthead {
+  background-color: #1a1a2e; // Header background
+  border-bottom: 2px solid #3498db;
 }
 
-.masthead {
-  background-color: #16213e;
+.page__hero--overlay {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Customize sidebar */
+.sidebar {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+/* Style your bio */
+.author__bio {
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* Post titles */
+.archive__item-title {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+/* Wider content area */
+.page {
+  max-width: 1200px;
+}
+
+/* More padding on posts */
+.page__content {
+  padding: 2em 0;
 }
