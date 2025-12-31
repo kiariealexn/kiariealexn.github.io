@@ -1,13 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "Alex Kiarie - Portfolio & Resume"
+title: "Portfolio & Resume"
 classes: wide
 ---
-
-# Alex Kiarie
-
-**Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate**
+## ** Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate **
 
 ---
 
