@@ -4,7 +4,7 @@ author_profile: true
 title: "Portfolio & Resume"
 classes: wide
 ---
-## ** Aspiring Developer |Cybersecurity Enthusiast| Economics Graduate **
+## **Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate**
 
 ---
 
@@ -16,7 +16,7 @@ A Bachelor of Arts in Economics graduate, bringing a unique blend of financial a
 
 ## 🛠️ Technical Skills
 
-* **Cloud & Networking:** AWS Cloud Practitioner, CCNA
+* **Cloud IT Ops & Networking:** AWS Cloud Practitioner, CCNA
 * **Cybersecurity:** Ethical Hacking, Security Fundamentals, Threat Analysis
 * **Web Development:** HTML, CSS, JavaScript (Learning)
 * **Finance & Accounting:** CPA (In Progress), Financial Analysis, Internal Audit
@@ -50,6 +50,7 @@ View my verified certifications on Credly:
 ## 💼 Professional Experience
 
 ### Trade Development Representative – Jamii Telecommunications Ltd (JTL)
+*Jul 2023 – Dec 2023 | Nairobi, KE
 
 * Promoted telecommunications products and services to grow market share
 * Identified customer needs and proposed tailored solutions
@@ -58,6 +59,7 @@ View my verified certifications on Credly:
 * Collaborated with cross-functional teams to deliver exceptional service
 
 ### Internal Audit Attaché – Kenya Revenue Authority (KRA)
+*Jan 2022 – Mar 2022 | Nairobi, KE
 
 * Gained hands-on experience in taxation and audit processes
 * Supported internal audit operations and compliance reviews
