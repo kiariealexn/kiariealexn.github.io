@@ -4,13 +4,13 @@ author_profile: true
 title: "Portfolio & Resume"
 classes: wide
 ---
-## ** Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate **
+## ** Aspiring Developer |Cybersecurity Enthusiast| Economics Graduate **
 
 ---
 
 ## 👔 Professional Summary
 
-Technical University of Kenya graduate with a Bachelor of Arts in Economics, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations, with a passion for building secure, scalable solutions.
+A Bachelor of Arts in Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations, with a passion for building secure, scalable solutions.
 
 ---
 
@@ -71,7 +71,7 @@ View my verified certifications on Credly:
 
 ### 💻 Personal Portfolio Website
 **Tech Stack:** Jekyll, Minimal Mistakes, HTML/CSS, JavaScript  
-**[View Live](https://kiariealexn.github.io)** | **[View Code](https://github.com/kiariealexn/kiariealexn.github.io)**
+**[View Code](https://github.com/kiariealexn/kiariealexn.github.io)**
 
 My learning journal and project showcase built from scratch. Features custom styling, responsive design, and blog functionality. Built to document my transition from finance to software development.
 
@@ -111,7 +111,7 @@ Building practical applications to strengthen my development skills:
 
 ---
 
-## 🤝 Soft Skills
+## 🤝🏾 Soft Skills
 
 * **Problem Solving** – Analytical thinking honed through economics and audit work
 * **Self-Learning** – Successfully transitioning careers through dedicated self-study
@@ -148,6 +148,6 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 ---
 
-*This portfolio is continuously updated as I learn and build new projects. Check back often to see what I'm working on!*
+*This portfolio is continuously updated and made in collaboration with Claude as I learn and build new projects. Check back often to see what I'm working on!*
 
 *Last updated: December 2025*
