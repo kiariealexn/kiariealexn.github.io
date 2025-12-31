@@ -43,7 +43,7 @@ Intensive skills development and job training program preparing learners for car
 
 View my verified certifications on Credly:
 
-* 🏅 [AWS Certified Cloud Practitioner]([https://www.credly.com/badges/YOUR_AWS_BADGE_ID](https://www.credly.com/badges/3500a744-11f7-4b82-836e-43cb04236e75/public_url) – Amazon Web Services
+* 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/3500a744-11f7-4b82-836e-43cb04236e75/public_url) – Amazon Web Services
 * 🏅 [CCNA - Cisco Certified Network Associate](https://www.credly.com/badges/2e6a90b5-d4e3-4988-9660-e2c6cf7ee6de/public_url) – Cisco Netacad
 * 🏅 [Cisco Ethical Hacker](https://www.credly.com/badges/9c0722ee-36d6-4fd8-bf15-bec12c716dc3/public_url) – Cisco Netacad
 * 📚 CPA (In Progress) – Certified Public Accountant
