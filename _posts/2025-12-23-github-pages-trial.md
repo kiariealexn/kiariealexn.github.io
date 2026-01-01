@@ -47,6 +47,7 @@ I'm particularly interested in exploring:
   * Cloud technologies (building on my AWS knowledge)
   * Cybersecurity principles in software design
   * How finance and fintech intersect with development
+    
 <!--more-->
 If you're on a similar journey, or if you've made a career transition yourself, I'd love to hear about it. Drop me a message on LinkedIn or Twitter.
 Here's to new beginnings and the courage to start from scratch.
