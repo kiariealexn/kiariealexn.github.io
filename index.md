@@ -4,7 +4,7 @@ author_profile: true
 title: "Portfolio & Resume"
 classes: wide
 ---
-## **Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate**
+**Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate**
 
 ---
 
