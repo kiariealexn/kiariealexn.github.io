@@ -150,6 +150,6 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 ---
 
-*This portfolio is continuously updated and made in collaboration with Claude as I learn and build new projects. Check back often to see what I'm working on!*
+*This portfolio is continuously updated in collaboration with Claude as I learn and build new projects. Check back often to see what I'm working on!*
 
 *Last updated: December 2025*
