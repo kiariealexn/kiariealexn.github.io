@@ -4,7 +4,9 @@ author_profile: true
 title: "Portfolio & Resume"
 classes: wide
 ---
-**Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate**
+<p style="text-align: center; font-size: 1.3em; font-weight: bold; color: #333;">
+  Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate
+</p>
 
 ---
 
