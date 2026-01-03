@@ -7,7 +7,7 @@ classes: wide
 ---
 ## 💻 Personal Portfolio Website
 
-![Portfolio Homepage](/assets/images/projects/portfolio-home.png)
+![Portfolio Homepage](/assets/images/portfolio-home.png)
 
 **Tech Stack:** Jekyll, Minimal Mistakes Theme, HTML/CSS, JavaScript, GitHub Pages, Git
 
@@ -78,15 +78,15 @@ This project was built collaboratively with Claude AI, demonstrating:
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](/assets/images/projects/portfolio-home.png)
+![Homepage](/assets/images/portfolio-home.png)
 *Resume-style homepage featuring professional summary, skills, and experience*
 
 ### Blog Post
-![Blog Post](/assets/images/projects/portfolio-blog.png)
+![Blog Post](/assets/images/portfolio-blog.png)
 *Blog functionality with reading time, table of contents, and social sharing*
 
 ### About Page
-![About Page](/assets/images/projects/portfolio-about.png)
+![About Page](/assets/images/portfolio-about.png)
 *Detailed background and skills breakdown*
 
 ---
