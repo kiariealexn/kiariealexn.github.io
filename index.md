@@ -5,14 +5,14 @@ title: "Portfolio & Resume"
 classes: wide
 ---
 <p style="text-align: center; font-size: 1.3em; font-weight: bold; color: # 255, 255, 255;">
-  Aspiring Developer | Cybersecurity Enthusiast | Economics Graduate
+  Aspiring Developer | Cybersecurity Enthusiast | B.A Economics 
 </p>
 
 ---
 
 ## 👔 Professional Summary
 
-A Bachelor of Arts in Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations, with a passion for building secure, scalable solutions.
+An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations, with a passion for building secure, scalable solutions.
 
 ---
 
@@ -154,4 +154,4 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 *This portfolio is continuously updated in collaboration with Claude as I learn and build new projects. Check back often to see what I'm working on!*
 
-*Last updated: December 2025*
+*Last updated: January 2026*
