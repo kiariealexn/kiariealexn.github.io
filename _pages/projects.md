@@ -5,24 +5,11 @@ permalink: /projects/
 author_profile: true
 classes: wide
 ---
-## 💻 Personal Portfolio Website
 
-![Portfolio Homepage](/assets/images/portfolio-home.png)
+### 🏠 [Portfolio Website](https://kiariealexn.github.io/)
+**Description:** My personal portfolio built with Jekyll and deployed on GitHub Pages. Documents my transition from finance to software development.
 
-**Tech Stack:** Jekyll, Minimal Mistakes Theme, HTML/CSS, JavaScript, GitHub Pages, Git
-
-**Project Overview:**  
-My personal portfolio website built to document my transition from finance to software development. This project serves as both a learning tool and a professional showcase, combining my technical skills with my unique background in economics and finance.
-
-**What I Learned:**
-- **Static Site Generators:** Understanding Jekyll's templating system, front matter, and build process
-- **Git & GitHub:** Version control workflows, GitHub Pages deployment, and collaboration
-- **Markdown:** Writing structured content with proper formatting
-- **YAML:** Configuring site settings and navigation
-- **Responsive Design:** Using Minimal Mistakes theme's responsive framework
-- **SCSS/CSS:** Customizing theme styles and creating custom animations
-- **JavaScript Libraries:** Integrating Anime.js for smooth animations
-- **SEO Basics:** Optimizing meta tags, titles, and descriptions
+**Technologies:** Jekyll, Ruby, Minimal Mistakes Theme, GitHub Pages, Markdown
 
 **Key Features:**
 - ✅ Responsive design that works on mobile, tablet, and desktop
@@ -32,75 +19,117 @@ My personal portfolio website built to document my transition from finance to so
 - ✅ Custom SCSS styling with the "dirt" theme
 - ✅ Reading time estimates and table of contents for blog posts
 - ✅ RSS feed for blog subscribers
-- ✅ Social media integration (LinkedIn, GitHub, Twitter)
+- ✅ Social media integration (LinkedIn, GitHub, X)
 - ✅ Smooth animations using Anime.js
 
-**Challenges Overcome:**
-1. **Jekyll Build Errors:** Learned to debug SCSS import issues and file structure requirements
-2. **Markdown Rendering:** Discovered differences between GitHub preview and Jekyll output
-3. **Theme Customization:** Figured out how to override theme defaults properly
-4. **GitHub Pages Deployment:** Understanding the build and deployment pipeline
-5. **Content Organization:** Structuring navigation, pages, and posts effectively
-
-**Development Process:**
-This project was built collaboratively with Claude AI, demonstrating:
-- Effective use of AI tools in modern development workflows
-- Iterative development and continuous improvement
-- Learning by building and problem-solving in real-time
-- Transparency in acknowledging collaboration and tools used
-
-**What's Next:**
-- [ ] Add more blog posts documenting my learning journey
-- [ ] Create custom Jekyll includes for reusable components
-- [ ] Implement dark mode toggle
-- [ ] Add project filtering by technology
-- [ ] Create interactive timeline of my career transition
-- [ ] Improve SEO and performance optimization
-
-**Timeline:** December 2024 - Ongoing
-
-**Links:**  
-[🔗 View Live](https://kiariealexn.github.io) | [💻 View Code](https://github.com/kiariealexn/kiariealexn.github.io)
-
-**Skills Demonstrated:**
-- Jekyll & Liquid templating
-- Git version control
-- YAML configuration
-- Markdown writing
-- HTML/CSS/JavaScript
-- Responsive web design
-- Technical documentation
-- Problem-solving & debugging
-- AI-assisted development
+**Live Site:** [https://kiariealexn.github.io/](https://kiariealexn.github.io/)  
+**Source Code:** [https://github.com/kiariealexn/kiariealexn.github.io](https://github.com/kiariealexn/kiariealexn.github.io)
 
 ---
 
-## 📸 Screenshots
+## 🌐 Web Development Projects
 
-### Homepage
-![Homepage](/assets/images/portfolio-home.png)
-*Resume-style homepage featuring professional summary, skills, and experience*
+### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
+**Description:** Professional accounting tool implementing Straight-Line, Declining Balance, and Sum-of-Years-Digits depreciation methods. Built to combine my finance background with software development skills.
 
-### Blog Post
-![Blog Post](/assets/images/portfolio-blog.png)
-*Blog functionality with reading time, table of contents, and social sharing*
+**Technologies:** HTML5, CSS3, JavaScript (ES6+), Chart.js, GitHub Pages
 
-### About Page
-![About Page](/assets/images/portfolio-about.png)
-*Detailed background and skills breakdown*
+**Features:**
+- Multiple depreciation methods with accurate CPA-level calculations
+- Interactive charts and year-by-year schedules
+- Responsive design for all devices
+- Form validation and error handling
+- Clean, professional interface suitable for portfolio
+
+**Live Demo:** [https://kiariealexn.github.io/depreciation-calculator/](https://kiariealexn.github.io/depreciation-calculator/)  
+**Source Code:** [https://github.com/kiariealexn/depreciation-calculator](https://github.com/kiariealexn/depreciation-calculator)
 
 ---
 
-## 🎓 Key Takeaways
+## 🔐 Cybersecurity Projects
 
-Building this portfolio taught me:
+### 🔒 Security Dashboard (Coming Q2 2025)
+**Description:** Interactive dashboard for monitoring security threats and vulnerabilities. Will implement real-time threat detection and reporting.
 
-1. **Start Before You're Ready:** I built this as a beginner, and that's okay. The best way to learn is by doing.
+**Planned Technologies:** React, Node.js, AWS Services, Security APIs, Docker
 
-2. **Documentation Matters:** Writing about what I'm building helps solidify my learning and creates valuable content.
+**Learning Focus:** Cloud security, threat analysis, dashboard design
 
-3. **Iteration is Normal:** This site went through multiple revisions, and that's part of the development process.
+**Current Status:** *Designing architecture and learning prerequisites*
 
-4. **Use Available Tools:** Leveraging AI, themes, and frameworks isn't "cheating" - it's being resourceful and efficient.
+---
 
-5. **Learning in Public:** Sharing my journey authentically, including acknowledging AI collaboration, builds trust and shows growth mindset.
+## 📊 Finance/Accounting Projects
+
+### 💰 Budget Tracker (Coming Q2 2025)
+**Description:** Personal finance tracking application with CPA-level analytics and reporting features.
+
+**Planned Technologies:** JavaScript, Local Storage/IndexedDB, Chart.js, Financial APIs
+
+**Features Planned:**
+- Expense categorization and tracking
+- CPA-style financial reporting
+- Budget vs. actual analysis
+- Data visualization and export
+
+**Current Status:** *Researching financial APIs and designing data models*
+
+---
+
+*Check back regularly as I add new projects throughout my development journey! Built in collaboration with Claude and Deepseek AI*
+
+---
+
+<style>
+.project-section {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.project-section:last-of-type {
+  border-bottom: none;
+}
+
+h3 {
+  margin-top: 1.5rem;
+  color: #2d3748;
+}
+
+.project-tech {
+  color: #4a5568;
+  font-size: 0.95rem;
+  margin: 0.5rem 0;
+}
+
+.project-links {
+  margin: 1rem 0;
+}
+
+.project-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  background: #4299e1;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.project-links a:hover {
+  background: #3182ce;
+}
+
+.coming-soon {
+  color: #a0aec0;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .project-links a {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+}
+</style>
