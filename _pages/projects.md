@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### 🏠 [Portfolio Website](https://kiariealexn.github.io/)
+#### 🏠 [Portfolio Website](https://kiariealexn.github.io/)
 **Description:** My personal portfolio built with Jekyll and deployed on GitHub Pages. Documents my transition from finance to software development.
 
 **Technologies:** Jekyll, Ruby, Minimal Mistakes Theme, GitHub Pages, Markdown
@@ -29,7 +29,7 @@ classes: wide
 
 ## 🌐 Web Development Projects
 
-### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
+#### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
 **Description:** Professional accounting tool implementing Straight-Line, Declining Balance, and Sum-of-Years-Digits depreciation methods. Built to combine my finance background with software development skills.
 
 **Technologies:** HTML5, CSS3, JavaScript (ES6+), Chart.js, GitHub Pages
@@ -48,7 +48,7 @@ classes: wide
 
 ## 🔐 Cybersecurity Projects
 
-### 🔒 Security Dashboard (Coming Q2 2025)
+#### 🔒 Security Dashboard (Coming Q2 2025)
 **Description:** Interactive dashboard for monitoring security threats and vulnerabilities. Will implement real-time threat detection and reporting.
 
 **Planned Technologies:** React, Node.js, AWS Services, Security APIs, Docker
@@ -61,7 +61,7 @@ classes: wide
 
 ## 📊 Finance/Accounting Projects
 
-### 💰 Budget Tracker (Coming Q2 2025)
+#### 💰 Budget Tracker (Coming Q2 2025)
 **Description:** Personal finance tracking application with CPA-level analytics and reporting features.
 
 **Planned Technologies:** JavaScript, Local Storage/IndexedDB, Chart.js, Financial APIs
@@ -79,7 +79,6 @@ classes: wide
 *Check back regularly as I add new projects throughout my development journey! Built in collaboration with Claude and Deepseek AI*
 
 ---
-
 <style>
 .project-section {
   margin-bottom: 3rem;
