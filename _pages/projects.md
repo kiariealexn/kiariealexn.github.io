@@ -17,7 +17,7 @@ classes: wide
 - ✅ Blog functionality with categories, tags, and search
 - ✅ Resume-style homepage with complete professional background
 - ✅ Integration with Credly for verified certification badges
-- ✅ Custom SCSS styling with the "dirt" theme
+- ✅ Custom SCSS styling with the "dark" theme
 - ✅ Reading time estimates and table of contents for blog posts
 - ✅ RSS feed for blog subscribers
 - ✅ Social media integration (LinkedIn, GitHub, X)
