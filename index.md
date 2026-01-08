@@ -5,7 +5,7 @@ title: "Portfolio & Resume"
 classes: wide
 ---
 <p style="text-align: center; font-size: 1.3em; font-weight: bold; color: # 255, 255, 255;">
-  Aspiring Developer | Cybersecurity Enthusiast | B.A Economics 
+  AI | Cybersecurity | B.A Economics | CPA 
 </p>
 
 ---
