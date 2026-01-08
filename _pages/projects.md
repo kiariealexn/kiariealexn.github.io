@@ -6,7 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-#### 🏠 [Portfolio Website](https://kiariealexn.github.io/)
+### 🏠 [Portfolio Website](https://kiariealexn.github.io/)Permalink
+
 **Description:** My personal portfolio built with Jekyll and deployed on GitHub Pages. Documents my transition from finance to software development.
 
 **Technologies:** Jekyll, Ruby, Minimal Mistakes Theme, GitHub Pages, Markdown
@@ -22,14 +23,12 @@ classes: wide
 - ✅ Social media integration (LinkedIn, GitHub, X)
 - ✅ Smooth animations using Anime.js
 
-**Live Site:** [https://kiariealexn.github.io/](https://kiariealexn.github.io/)  
-**Source Code:** [https://github.com/kiariealexn/kiariealexn.github.io](https://github.com/kiariealexn/kiariealexn.github.io)
-
 ---
 
-## 🌐 Web Development Projects
+## 🌐 Web Development ProjectsPermalink
 
-#### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
+### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)Permalink
+
 **Description:** Professional accounting tool implementing Straight-Line, Declining Balance, and Sum-of-Years-Digits depreciation methods. Built to combine my finance background with software development skills.
 
 **Technologies:** HTML5, CSS3, JavaScript (ES6+), Chart.js, GitHub Pages
@@ -41,14 +40,14 @@ classes: wide
 - Form validation and error handling
 - Clean, professional interface suitable for portfolio
 
-**Live Demo:** [https://kiariealexn.github.io/depreciation-calculator/](https://kiariealexn.github.io/depreciation-calculator/)  
-**Source Code:** [https://github.com/kiariealexn/depreciation-calculator](https://github.com/kiariealexn/depreciation-calculator)
+**🔗 Quick Links:** [Live Demo](https://kiariealexn.github.io/depreciation-calculator/) | [Source Code](https://github.com/kiariealexn/depreciation-calculator)
 
 ---
 
-## 🔐 Cybersecurity Projects
+## 🔐 Cybersecurity ProjectsPermalink
 
-#### 🔒 Security Dashboard (Coming Q2 2025)
+### 🔒 Security Dashboard <span class="status-badge">Coming Q2 2025</span>
+
 **Description:** Interactive dashboard for monitoring security threats and vulnerabilities. Will implement real-time threat detection and reporting.
 
 **Planned Technologies:** React, Node.js, AWS Services, Security APIs, Docker
@@ -59,9 +58,10 @@ classes: wide
 
 ---
 
-## 📊 Finance/Accounting Projects
+## 📊 Finance/Accounting ProjectsPermalink
 
-#### 💰 Budget Tracker (Coming Q2 2025)
+### 💰 Budget Tracker (Coming Q2 2025)Permalink
+
 **Description:** Personal finance tracking application with CPA-level analytics and reporting features.
 
 **Planned Technologies:** JavaScript, Local Storage/IndexedDB, Chart.js, Financial APIs
@@ -76,59 +76,63 @@ classes: wide
 
 ---
 
-*Check back regularly as I add new projects throughout my development journey! Built in collaboration with Claude and Deepseek AI*
+## 🚀 What's Next?
 
----
+Check back regularly as I add new projects throughout my development journey!
+
+**Currently Working On:**
+- ✅ **Phase 1 Complete:** Straight-Line Depreciation Method
+- 🔄 **Phase 2 in Progress:** Declining Balance & Sum-of-Years-Digits Methods
+- 📋 **Phase 3 Planned:** Charts, Export Features, and Polish
+
+*Built in collaboration with Claude and Deepseek AI*
+
 <style>
-.project-section {
-  margin-bottom: 3rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #eaeaea;
+.project-title-link {
+  color: #2563eb;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
 }
 
-.project-section:last-of-type {
-  border-bottom: none;
+.project-title-link:hover {
+  color: #1d4ed8;
+  border-bottom-color: #2563eb;
 }
 
-h3 {
-  margin-top: 1.5rem;
-  color: #2d3748;
-}
-
-.project-tech {
-  color: #4a5568;
-  font-size: 0.95rem;
-  margin: 0.5rem 0;
-}
-
-.project-links {
+.quick-links {
   margin: 1rem 0;
+  padding: 0.75rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border-left: 4px solid #2563eb;
 }
 
-.project-links a {
+.quick-links a {
   display: inline-block;
   margin-right: 1rem;
-  padding: 0.5rem 1rem;
-  background: #4299e1;
+  padding: 0.4rem 0.8rem;
+  background: #2563eb;
   color: white;
   text-decoration: none;
   border-radius: 4px;
   font-weight: 500;
+  font-size: 0.9rem;
 }
 
-.project-links a:hover {
-  background: #3182ce;
+.quick-links a:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
 }
 
-.coming-soon {
-  color: #a0aec0;
-  font-style: italic;
-}
-
-@media (max-width: 768px) {
-  .project-links a {
-    display: block;
-    margin-bottom: 0.5rem;
-  }
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background: #fef3c7;
+  color: #92400e;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-left: 0.5rem;
 }
 </style>
