@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-### 🏠 [Portfolio Website](https://kiariealexn.github.io/)Permalink
+### 🏠 [Portfolio Website](https://kiariealexn.github.io/)
 
 **Description:** My personal portfolio built with Jekyll and deployed on GitHub Pages. Documents my transition from finance to software development.
 
@@ -25,9 +25,9 @@ classes: wide
 
 ---
 
-## 🌐 Web Development ProjectsPermalink
+## 🌐 Web Development Projects
 
-### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)Permalink
+### 📉 [Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
 
 **Description:** Professional accounting tool implementing Straight-Line, Declining Balance, and Sum-of-Years-Digits depreciation methods. Built to combine my finance background with software development skills.
 
@@ -44,7 +44,7 @@ classes: wide
 
 ---
 
-## 🔐 Cybersecurity ProjectsPermalink
+## 🔐 Cybersecurity Projects
 
 ### 🔒 Security Dashboard <span class="status-badge">Coming Q2 2025</span>
 
@@ -58,9 +58,9 @@ classes: wide
 
 ---
 
-## 📊 Finance/Accounting ProjectsPermalink
+## 📊 Finance/Accounting Projects
 
-### 💰 Budget Tracker (Coming Q2 2025)Permalink
+### 💰 Budget Tracker (Coming Q2 2025)
 
 **Description:** Personal finance tracking application with CPA-level analytics and reporting features.
 
@@ -85,7 +85,11 @@ Check back regularly as I add new projects throughout my development journey!
 - 🔄 **Phase 2 in Progress:** Declining Balance & Sum-of-Years-Digits Methods
 - 📋 **Phase 3 Planned:** Charts, Export Features, and Polish
 
+---
+
 *Built in collaboration with Claude and Deepseek AI*
+
+---
 
 <style>
 .project-title-link {
