@@ -2,7 +2,7 @@
 layout: archive
 title: "Why I'm Transitioning from Finance to Development"
 excerpt_separator: "<!--more-->"
-date: 2025-12-23 10:00:00 +0300
+date: 2025-12-23 
 categories: [career, personal]
 tags: [career-change, learning, development, journey]
 author: Alex Kiarie
