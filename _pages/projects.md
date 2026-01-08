@@ -60,7 +60,7 @@ classes: wide
 
 ## 📊 Finance/Accounting Projects
 
-### 💰 Budget Tracker (Coming Q2 2025)
+### 💰 Budget Tracker <span class="status-badge">Coming Q2 2025</span>
 
 **Description:** Personal finance tracking application with CPA-level analytics and reporting features.
 
