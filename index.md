@@ -5,24 +5,24 @@ title: "Portfolio & Resume"
 classes: wide
 ---
 <p style="text-align: center; font-size: 1.3em; font-weight: bold; color: # 255, 255, 255;">
-  AI | Cybersecurity | B.A Economics | CPA 
+  B.A Economics | IT Support | Cybersecurity Analyst   
 </p>
 
 ---
 
 ## 👔 Professional Summary
 
-An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations, with a passion for building secure, scalable solutions.
+An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Cloud IT Ops & Networking:** AWS Cloud Practitioner, CCNA
-* **Cybersecurity:** Ethical Hacking, Security Fundamentals, Threat Analysis
+* **Cloud IT Ops & Networking:** CCNA, AWS Cloud Practitioner
+* **Cybersecurity:** Ethical Hacking, Security Fundamentals, Endpoint Security
 * **Web Development:** HTML, CSS, JavaScript (Learning)
 * **Finance & Accounting:** CPA (In Progress), Financial Analysis, Internal Audit
-* **Tools & Platforms:** Git/GitHub, Microsoft Office 365
+* **Tools & Platforms:** Git/GitHub, Microsoft Office 365, Cisco Packet Tracer
 
 ---
 
@@ -30,11 +30,11 @@ An Economics graduate, bringing a unique blend of financial acumen and IT expert
 
 **Bachelor of Arts in Economics**  
 *Technical University of Kenya*  
-Specialized in: Financial Accounting, Entrepreneurship, Information Technology
+Specialized in: Economic Principles, Financial Accounting, Entrepreneurship, Information Technology
 
 **AWS re/Start Program**  
 *Ajira Digital* 
-Intensive skills development and job training program preparing learners for careers in cloud computing
+Intensive skills development and job training program preparing learners for careers in general Information Technology and Cloud Computing
 
 ---
 
@@ -52,7 +52,7 @@ View my verified certifications on Credly:
 ## 💼 Professional Experience
 
 ### Trade Development Representative – Jamii Telecommunications Ltd (JTL)
-*Jul 2023 – Dec 2023 | Nairobi, KE
+*Jul 2023 – Dec 2023 | Nairobi & Kiambu region, KE
 
 * Promoted telecommunications products and services to grow market share
 * Identified customer needs and proposed tailored solutions
@@ -77,8 +77,7 @@ View my verified certifications on Credly:
 **Tech Stack:** Jekyll, Minimal Mistakes, HTML/CSS, JavaScript  
 **[View Code](https://github.com/kiariealexn/kiariealexn.github.io)**
 
-My learning journal and project showcase built from scratch. Features custom styling, responsive design, and blog functionality. Built to document my transition from finance to software development.
-
+My learning journal and project showcase built from scratch. Features custom styling, responsive design, and blog functionality. 
 ### 🔒 Security Projects (Coming Soon)
 Currently exploring:
 * Vulnerability assessment labs
@@ -107,7 +106,7 @@ Building practical applications to strengthen my development skills:
 
 ## 🎯 What I'm Currently Learning
 
-* 💻 **Web Development:** HTML, CSS, JavaScript - Building responsive, interactive websites
+* 💻 **Cisco CCNA: Switching, Routing, and Wireless Essentials):** HTML, CSS, JavaScript - Building responsive, interactive websites
 * 🔐 **Cybersecurity:** Applying security principles in software development
 * ☁️ **Cloud Technologies:** Expanding AWS knowledge beyond fundamentals
 * 🐍 **Python:** Scripting and automation
@@ -154,4 +153,4 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 *This portfolio is continuously updated in collaboration with Claude AI as I learn and build new projects. Check back often to see what I'm working on!*
 
-*Last updated: January 2026*
+*Last updated: April 2026*
