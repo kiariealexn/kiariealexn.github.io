@@ -5,23 +5,22 @@ title: "Portfolio & Resume"
 classes: wide
 ---
 <p style="text-align: center; font-size: 1.3em; font-weight: bold; color: # 255, 255, 255;">
-  B.A Economics | IT Support | Cybersecurity Analyst   
+  B.A Economics | CPA | IT Operations    
 </p>
 
 ---
 
 ## 👔 Professional Summary
 
-An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Currently transitioning into software development with a focus on web technologies and cybersecurity. Experienced in finance, IT operations, and customer relations.
+An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Experienced in finance, IT operations, and customer relations.
 
 ---
 
 ## 🛠️ Technical Skills
 
+* **Finance & Accounting:** CPA (In Progress), Financial Analysis, Internal Audit
 * **Cloud IT Ops & Networking:** CCNA, AWS Cloud Practitioner
 * **Cybersecurity:** Ethical Hacking, Security Fundamentals, Endpoint Security
-* **Web Development:** HTML, CSS, JavaScript (Learning)
-* **Finance & Accounting:** CPA (In Progress), Financial Analysis, Internal Audit
 * **Tools & Platforms:** Git/GitHub, Microsoft Office 365, Cisco Packet Tracer
 
 ---
@@ -30,7 +29,12 @@ An Economics graduate, bringing a unique blend of financial acumen and IT expert
 
 **Bachelor of Arts in Economics**  
 *Technical University of Kenya*  
-Specialized in: Economic Principles, Financial Accounting, Entrepreneurship, Information Technology
+Specialized in: Economic Principles, Entrepreneurship, Information Technology
+
+**CPA**
+*Kings College of Accountancy*
+Advanced Level
+Covered: Financial Accounting & Reporting, Management Accounting, Financial Management
 
 **AWS re/Start Program**  
 *Ajira Digital* 
@@ -77,7 +81,7 @@ View my verified certifications on Credly:
 **Tech Stack:** Jekyll, Minimal Mistakes, HTML/CSS, JavaScript  
 **[View Code](https://github.com/kiariealexn/kiariealexn.github.io)**
 
-My learning journal and project showcase built from scratch. Features custom styling, responsive design, and blog functionality. 
+<!--My learning journal and project showcase built from scratch. Features custom styling, responsive design, and blog functionality. 
 ### 🔒 Security Projects (Coming Soon)
 Currently exploring:
 * Vulnerability assessment labs
@@ -91,7 +95,7 @@ Building practical applications to strengthen my development skills:
 * Responsive design implementations
 * JavaScript-based projects
 
----
+--- -->
 
 ## 📝 Recent Blog Posts
 
@@ -104,7 +108,7 @@ Building practical applications to strengthen my development skills:
 
 ---
 
-## 🎯 What I'm Currently Learning
+<!-- ## 🎯 What I'm Currently Learning
 
 * 💻 **Cisco CCNA: Switching, Routing, and Wireless Essentials):** HTML, CSS, JavaScript - Building responsive, interactive websites
 * 🔐 **Cybersecurity:** Applying security principles in software development
@@ -112,7 +116,7 @@ Building practical applications to strengthen my development skills:
 * 🐍 **Python:** Scripting and automation
 * 🛠️ **DevOps Basics:** Git workflows, CI/CD concepts
 
----
+--- -->
 
 ## 🤝🏾 Soft Skills
 
@@ -134,10 +138,10 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/alex-k-4784861a0/) – Let's connect professionally
 * 🐙 [GitHub](https://github.com/kiariealexn) – Check out my code
-* 🐦 [Twitter/X](https://x.com/Kishkreezy/) – Follow my tech journey
+<!-- * 🐦 [Twitter/X](https://x.com/Kishkreezy/) – Follow my tech journey
 * 📍 Location: Nairobi, Kenya
 
----
+--- -->
 
 ## 💡 Why Work With Me?
 
@@ -153,4 +157,4 @@ I'm always interested in connecting with fellow developers, tech enthusiasts, an
 
 *This portfolio is continuously updated in collaboration with Claude AI as I learn and build new projects. Check back often to see what I'm working on!*
 
-*Last updated: April 2026*
+*Last updated: May 2026*
