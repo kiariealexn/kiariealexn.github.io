@@ -17,7 +17,7 @@
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
-twitter_username: Kish kreezy
+#twitter_username: Kish kreezy
 github_username: Alex Kiarie
 minimal_mistakes_skin: dark # Change to one of these:
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -59,15 +59,15 @@ plugins:
 author:
   name   : "Alex Kiarie"
   avatar : "/assets/images/cropped-edit.jpg"
-  bio    : "CPA | Cybersecurity enthusiast | Context Engineer"
+  bio    : "Economist | ICT Operations
   
   links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
       #url: "https://kiariealexn.github.io/"  
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Kishkreezy/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://x.com/Kishkreezy/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kiariealexn/"
@@ -80,9 +80,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/Kishkreezy/"
+    #- label: "Twitter"
+     # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://x.com/Kishkreezy/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kiariealexn/"
