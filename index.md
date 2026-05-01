@@ -12,13 +12,13 @@ classes: wide
 
 ## 👔 Professional Summary
 
-An Economics graduate, bringing a unique blend of financial acumen and IT expertise. Certified in AWS Cloud Practitioner, CCNA, and Ethical Hacking. Experienced in finance, IT operations, and customer relations.
+Economics graduate with a solid grounding in financial analysis, reporting, and economic principles, enhanced by ongoing professional development and technical certifications (AWS Cloud Practitioner, CCNA, Ethical Hacking). Experienced in supporting data-driven decision-making, maintaining accuracy in financial information, and applying analytical skills to improve operational efficiency.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Finance & Accounting:** CPA (In Progress), Financial Analysis, Internal Audit
+* **Finance & Accounting:** CPA (Advanced Level), Financial Analysis, Internal Audit
 * **Cloud IT Ops & Networking:** CCNA, AWS Cloud Practitioner
 * **Cybersecurity:** Ethical Hacking, Security Fundamentals, Endpoint Security
 * **Tools & Platforms:** Git/GitHub, Microsoft Office 365, Cisco Packet Tracer
