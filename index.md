@@ -49,7 +49,7 @@ View my verified certifications on Credly:
 
 ---
 
-## 💼 Professional Experience
+<!--## 💼 Professional Experience
 
 ### Trade Development Representative – Jamii Telecommunications Ltd (JTL)
 *Jul 2023 – Dec 2023 | Nairobi & Kiambu region, KE
@@ -69,7 +69,7 @@ View my verified certifications on Credly:
 * Assisted in documentation and reporting of audit findings
 * Developed analytical skills through exposure to complex financial systems
 
----
+--- -->
 
 ## 🧩 Projects
 
