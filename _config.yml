@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Alex Kiarie"
   avatar : "/assets/images/cropped-edit.jpg"
-  bio    : "Economics & Accounting professional with hands-on IT operations experience. AWS | CCNA | CEH."
+#  bio    : "Economics & Accounting professional with hands-on IT operations experience. AWS | CCNA | CEH."
   
   links:
     #- label: "Website"
