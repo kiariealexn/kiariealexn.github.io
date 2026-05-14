@@ -5,12 +5,41 @@ title: "Portfolio & Resume"
 classes: wide
 ---
 <p style="text-align: center; font-size: 1.3em; font-weight: bold; color: # 255, 255, 255;">
-  B.A Economics | CPA | IT Operations    
+  B.A Economics | Sales | IT Operations    
 </p>
 
 ---
 
-## 👔 Professional Summary
+# 👋 Hi, I'm Alex Kiarie
+
+IT and Finance professional building at the intersection of sales, accounting and technology.
+
+## 🔨 What I'm Building
+
+🚀 **[Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)** - Professional web tool for asset depreciation analysis  
+📊 **In progress:** Adding Chart.js visualizations for financial data  
+
+## 💻 Tech Stack
+
+**Languages:** JavaScript, HTML, CSS  
+**Tools:** Git, GitHub Pages, Jekyll, VS Code, Claude & Deepseek A.I 
+**Sales:** ISP, Fibre Optics, CRM software
+**Finance:** CPA candidate, AWS & CCNA certified (Intro to Networks) 
+
+
+## 🎯 Current Projects
+
+- 📱 Depreciation Calculator (Phase 1 complete)
+- 🌱 Learning: Chart.js, data visualization
+
+## 📫 Connect
+
+Portfolio: [kiariealexn.github.io](https://kiariealexn.github.io)  
+LinkedIn: [alex-k](https://linkedin.com/in/alex-k-4784861a0/)  
+
+---
+
+<!--## 👔 Professional Summary
 
 Economics graduate with a solid grounding in financial analysis, reporting, and economic principles, enhanced by ongoing professional development and technical certifications (AWS Cloud Practitioner, CCNA, Ethical Hacking). Experienced in supporting data-driven decision-making, maintaining accuracy in financial information, and applying analytical skills to improve operational efficiency.
 
@@ -118,7 +147,7 @@ Building practical applications to strengthen my development skills:
 
 --- -->
 
-## 🤝🏾 Soft Skills
+<!--## 🤝🏾 Soft Skills
 
 * **Problem Solving** – Analytical thinking honed through economics and audit work
 * **Self-Learning** – Successfully transitioning careers through dedicated self-study
@@ -128,11 +157,11 @@ Building practical applications to strengthen my development skills:
 * **Team Collaboration** – Experience working in cross-functional teams
 * **Customer Relations** – Strong interpersonal skills from sales and support roles
 
----
+--- -->
 
 ## 📫 Let's Connect
 
-I'm always interested in connecting with fellow developers, tech enthusiasts, and anyone passionate about the intersection of finance, technology, and security.
+I'm always interested in connecting with fellow developers, tech enthusiasts, and anyone passionate about the intersection of finance, sales, technology, and security.
 
 **Get in touch:**
 
