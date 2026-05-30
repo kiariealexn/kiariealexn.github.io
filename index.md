@@ -22,7 +22,7 @@ IT and Finance professional building at the intersection of sales, accounting an
 ## 💻 Tech Stack
 
 **Languages:** JavaScript, HTML, CSS  
-**Tools:** Git, GitHub Pages, Jekyll, VS Code, Claude & Deepseek A.I 
+**Tools:** Git, GitHub Pages, Jekyll, VS Code, Claude & Deepseek  
 **Sales:** ISP, Fibre Optics, CRM software
 **Finance:** CPA candidate, AWS & CCNA certified (Intro to Networks) 
 
