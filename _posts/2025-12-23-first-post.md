@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Building at the Intersection of Finance & Technology"
 excerpt_separator: "<!--more-->"
 date: 2025-12-23 

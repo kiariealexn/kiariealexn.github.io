@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Building a Two-Tier VPC on AWS: Public/Private Subnets, NAT Gateway, and a Bastion Host"
 date: 2026-07-04
 categories: [networking, cloud, ccna]
