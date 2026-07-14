@@ -1,12 +1,12 @@
 technical:
 - title: Accounting (CPA)
-  level: Intermediate
+  level: Advance
 - title: AWS Cloud Services
-  level: Intermediate
+  level: Cloud Practitioner
 - title: Network Administration (CCNA)
-  level: Intermediate
+  level: Enterprise Networking, Security, and Automation
 - title: WebDev
-  level: Beginner
+  level: Vibe Coder
 - title: Microsoft 365
   level: Intermediate
 - title: Cybersecurity Fundamentals
@@ -14,17 +14,11 @@ technical:
 
 soft:
 - title: Problem Solving
-  level: Intermediate
 - title: Customer Relations
-  level: Intermediate
 - title: Attention to Detail
-  level: Advanced
 - title: Self-Learning
-  level: Advanced
 - title: Communication
-  level: Intermediate
 - title: Adaptability
-  level: Advanced
 
   
   
