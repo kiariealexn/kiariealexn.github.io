@@ -2,7 +2,7 @@ name: Build and Deploy to S3 + CloudFront
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build-and-deploy:
