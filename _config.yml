@@ -18,10 +18,11 @@
   #line in _config.yml. It will appear in your document head meta (for
   #Google search results) and in your feed.xml site description.
 #twitter_username: Kish kreezy
-github_username: Alex Kiarie
+github_username: kiariealexn
 minimal_mistakes_skin: dark # Change to one of these:
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+title: "Kiarielabs"
 
 # Build settings
 markdown: kramdown
@@ -51,6 +52,7 @@ exclude:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

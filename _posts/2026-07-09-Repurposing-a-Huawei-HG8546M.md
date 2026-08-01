@@ -1,7 +1,9 @@
 ---
 title: "Repurposing a Huawei HG8546M: ISP Locks, Privilege Tiers, and Why the External AP Won"
 date: 2026-07-09
+categories: [networking, home-lab]
 tags: [networking, home-lab, ccna, huawei, troubleshooting]
+layout: single
 ---
 
 # Repurposing a Huawei HG8546M: ISP Locks, Privilege Tiers, and Why the External AP Won

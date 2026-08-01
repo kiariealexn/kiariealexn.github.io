@@ -27,3 +27,40 @@ html, body {
 html, body {
   overflow-x: hidden;
 }
+.section-preview-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5em;
+  margin: 2em 0;
+}
+
+.section-preview-card {
+  display: block;
+  padding: 1.5em;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: border-color 0.2s ease;
+}
+
+.section-preview-card:hover {
+  border-color: $primary-color;
+}
+
+.section-preview-card h3 {
+  font-family: $monospace;
+  color: $primary-color;
+  margin-top: 0;
+}
+
+.section-preview-card p {
+  color: $text-color;
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .section-preview-grid {
+    grid-template-columns: 1fr;
+  }
+}

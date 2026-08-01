@@ -1,0 +1,5 @@
+{% if page.date or page.categories %}
+<p class="log-entry__meta">
+  LOG · {{ page.date | date: "%Y-%m-%d" }}{% if page.categories %} · {{ page.categories | join: "/" }}{% endif %}
+</p>
+{% endif %}

@@ -2,7 +2,7 @@
 title: "Building a Depreciation Calculator: A Journey from Finance to Code"
 excerpt_separator: "<!--more-->"
 date: 2026-01-08
-categories: [projects, finance, web-development]
+categories: [accounting, finance, web-development]
 tags: [web-development, accounting, portfolio, CPA, learning-in-public]
 excerpt: "How I combined my accounting knowledge with web development skills to build a professional depreciation calculator - my second portfolio project."
 toc: true

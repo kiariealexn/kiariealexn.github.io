@@ -6,44 +6,45 @@ author_profile: true
 classes: wide
 ---
 
-## 📊 Depreciation Calculator
+<div class="log-entry">
+  <p class="log-entry__meta">STATUS · Live, Phase 2 Complete · accounting/finance/web-development</p>
+  <h2>Depreciation Calculator</h2>
 
-**Status:** ✅ Live - Phase 2 Complete
+  <p>Professional web-based depreciation calculator supporting multiple accounting methods.</p>
 
-**Tech Stack:** HTML5, CSS3, Vanilla JavaScript, GitHub Pages
+  <p><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages</p>
 
-**Project Overview:**
-Professional web-based depreciation calculator supporting multiple accounting methods. 
+  <p><strong>Features:</strong></p>
+  <ul>
+    <li>Straight-Line depreciation method</li>
+    <li>Declining Balance method (200% &amp; 150%)</li>
+    <li>Responsive design</li>
+    <li>Comprehensive input validation</li>
+    <li>Educational explanations of each method</li>
+  </ul>
 
-**Key Features:**
-- ✅ Straight-Line depreciation method
-- ✅ Declining Balance method (200% & 150%)
-- ✅ Responsive design 
-- ✅ Comprehensive input validation
-- ✅ Educational explanations of each method
+  <p><strong>What I learned:</strong></p>
+  <ul>
+    <li>Complex form validation and error handling</li>
+    <li>Professional documentation practices</li>
+    <li>Git workflows and GitHub Pages deployment</li>
+    <li>Solving real accounting problems with code</li>
+  </ul>
 
-**What I Learned:**
-- Complex form validation and error handling
-- Professional documentation practices
-- Git workflows and GitHub Pages deployment
-- Solving real accounting problems with code
+  <p><strong>Challenges overcome:</strong></p>
+  <ol>
+    <li><strong>JavaScript number precision:</strong> custom rounding to ensure 2-decimal accuracy for financial calculations</li>
+    <li><strong>Edge case handling:</strong> declining balance method must stop at salvage value, requiring conditional logic</li>
+    <li><strong>User experience:</strong> balanced comprehensive validation with helpful, non-intrusive error messages</li>
+  </ol>
 
-**Challenges Overcome:**
-1. **JavaScript Number Precision:** Implemented custom rounding to ensure 2-decimal accuracy for financial calculations
-2. **Edge Case Handling:** Declining balance method must stop at salvage value, requiring conditional logic
-3. **User Experience:** Balanced comprehensive validation with helpful, non-intrusive error messages
+  <p><strong>Timeline:</strong> January 2026 (2 weeks — Phase 1 &amp; 2)</p>
 
-**Timeline:** January 2026 (2 weeks - Phase 1 & 2)
+  <p>
+    <a href="https://kiariealexn.github.io/depreciation-calculator/" target="_blank" rel="noopener noreferrer">View Live</a> ·
+    <a href="https://github.com/kiariealexn/depreciation-calculator" target="_blank" rel="noopener noreferrer">View Code</a> ·
+    <a href="/accounting/finance/web-development/building-depreciation-calculator/">Read Write-up</a>
+  </p>
 
-**Links:**
-[🔗 View Live](https://kiariealexn.github.io/depreciation-calculator/) | [💻 View Code](https://github.com/kiariealexn/depreciation-calculator) | [📝 Read Blog Post](/career/projects/building-depreciation-calculator/)
-
----
-
-**Next Phase:** Adding Chart.js visualizations to show book value trends and depreciation patterns graphically.
----
-
-*Built in collaboration with Claude and Deepseek AI*
-
----
-
+  <p><strong>Next phase:</strong> adding Chart.js visualizations to show book value trends and depreciation patterns graphically.</p>
+</div>

@@ -5,3 +5,7 @@ main:
     url: /projects/ 
   - title: "About"
     url: /about/
+  - title: "Accounting"
+    url: /accounting/
+  - title: "Networking"
+    url: /networking/

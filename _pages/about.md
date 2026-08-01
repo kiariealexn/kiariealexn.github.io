@@ -4,19 +4,22 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, I'm Alex Kiarie, a Nairobi-based tech enthusiast transitioning into software development.
-I studied Economics at the Technical University of Kenya, but I've always been passionate about technology and cybersecurity. Over the past few years, I've been balancing my interest in tech with pursuing my CPA certification - working in roles spanning finance, IT operations, and sales, from supporting internal audits at the Kenya Revenue Authority to customer acquisition at JTL KE.
+I'm Alex Kiarie — a Nairobi-based professional working at the intersection of finance and technology. Not moving from one into the other; genuinely both, at the same time.
 
-Along the way, I earned my AWS Cloud Practitioner and CCNA certifications, which only deepened my interest in how systems work. But now, I'm ready to go beyond understanding technology - I want to build it.
-I'm currently learning web development from the ground up, working with HTML, CSS, and JavaScript. This portfolio is my learning journal and a place to showcase the projects I'm building as I grow my skills. I'm particularly interested in how development intersects with cybersecurity and cloud technologies.
+My foundation is in Economics (Technical University of Kenya), and I'm currently an Advanced-level CPA candidate. Alongside that, I hold AWS Cloud Practitioner and CCNA certifications, and I build real infrastructure — this site itself runs on a stack I designed and secured myself: S3, CloudFront, Route 53, with automated CI/CD.
 
-<p style="font-size:0.9em">Let's Connect: Feel free to reach out via <a href="https://github.com/kiariealexn" target="_blank" rel="noopener noreferrer">GitHub</a> or <a href="https://www.linkedin.com/in/alex-k-4784861a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Always happy to connect with fellow learners and tech enthusiasts!</p>
+I've worked across internal audit (Kenya Revenue Authority) and telecoms sales (Jamii Telecommunications) — roles that taught me how financial controls and technical systems actually intersect in practice, not just in theory. That intersection is what I'm building toward: roles in IT, cybersecurity, and tech-enabled finance and audit, particularly GRC and IT Audit.
 
-## My skills
-### Technical skills
+This site is where I document that work — CPA study notes, cloud and networking labs, and the projects I build along the way. Not a portfolio of finished polish, but a running log of real, working infrastructure and real, ongoing study.
+
+<p style="font-size:0.9em">Reach out via <a href="https://github.com/kiariealexn" target="_blank" rel="noopener noreferrer">GitHub</a> or <a href="https://www.linkedin.com/in/alex-k-4784861a0/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.</p>
+
+## Skills
+
+### Technical
 
 {% include technicalskills.md %}
 
-### Soft skills
+### Soft Skills
 
 {% include softskills.md %}

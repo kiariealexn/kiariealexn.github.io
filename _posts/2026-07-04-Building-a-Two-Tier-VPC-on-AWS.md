@@ -8,7 +8,7 @@ tags: [aws, vpc, nat-gateway, networking, ccna]
 
 ## Why I Built This
 
-I'm currently working through CCNA Course 3 (ENSA), and a lot of it - subnetting, default routes, NAT - reads fine on paper but doesn't fully click until you've watched it actually move traffic. With $100 in AWS credits sitting unused, I decided to rebuild the classic "public subnet / private subnet" enterprise pattern from scratch in the AWS Console, rather than using a one-click VPC wizard, specifically so I'd have to reason through every routing decision myself.
+I'm currently working through CCNA Course 3 (ENSA), and a lot of it reads fine on paper but doesn't fully click until you've watched it actually move traffic. With $100 in AWS credits sitting unused, I decided to rebuild the classic "public subnet / private subnet" enterprise pattern from scratch in the AWS Console, rather than using a one-click VPC wizard, specifically so I'd have to reason through every routing decision myself.
 
 The result: a small, fully functional two-tier network that mirrors what you'd find behind most production web applications - a public-facing server, a private backend server with zero direct internet exposure, and a bastion-host pattern for reaching it.
 
