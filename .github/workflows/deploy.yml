@@ -20,6 +20,16 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      - name: Debug secret presence
+        run: |
+          if [ -z "${AWS_KEY}" ]; then
+            echo "AWS_ACCESS_KEY_ID is EMPTY"
+          else
+            echo "AWS_ACCESS_KEY_ID length: ${#AWS_KEY}"
+          fi
+        env:
+          AWS_KEY: ${{ secrets.AWS_ACCESS_KEY_ID }}
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
