@@ -6,7 +6,7 @@ tags: [networking, home-lab, ccna, huawei, troubleshooting]
 layout: single
 ---
 
-# Repurposing a Huawei HG8546M: ISP Locks, Privilege Tiers, and Why the External AP Won
+# Repurposing a Huawei HG8546M: ISP Locks, Privilege Tiers and Why the External Access Point Won
 
 ## The Goal
 
@@ -107,4 +107,4 @@ This is a cleaner separation of concerns anyway. A switch switches. An AP - purp
 
 6. **ISP-provisioned hardware has a design ceiling.** The HG8546M's Wi-Fi was built as a managed ISP service, not a general-purpose bridge port. Once you understand that framing, the ISP locks stop feeling like obstacles and start making sense as intentional design - just not design that serves your use case.
 
-This is part of an ongoing home networking project. .
+

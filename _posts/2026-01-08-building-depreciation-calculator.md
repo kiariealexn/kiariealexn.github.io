@@ -16,14 +16,10 @@ header:
 ## Building My Depreciation Calculator: A Journey from Finance to Code
 ### How I combined my CPA studies with web development to create a practical portfolio project.
 
-Hello! If you've been following my journey, you know I'm transitioning from a background in economics and finance into the world of software development. To bridge these two worlds, I decided to build something that speaks to both: a Depreciation Calculator.
+Hello! As part of bridging my background in Finance and software development, I decided to build something that speaks to both: a Depreciation Calculator. Depreciation is a core concept in accounting that spreads the cost of a physical asset over its useful life, matching expenses to revenue and reducing tax bills. Key components include straight-line method, declining balance, and accumulated depreciation.
 This project wasn't just about writing code; it was about making the accounting concepts I'm studying for my CPA exam tangible and interactive.
 <!--more-->
 
-## Why a Depreciation Calculator?
-
-As a CPA candidate, depreciation methods (Straight-Line, Declining Balance, etc.) are fundamental. As an aspiring developer, I wanted to build a clean, useful web app. This calculator was the perfect fusion as it reinforced my finance knowledge while forcing me to apply new HTML, CSS, and JavaScript skills to solve a real problem.
-<!--more-->
 ## The Collaboration: Learning with AI
 
 I didn't build this alone. As a novice, I collaborated extensively with AI assistants, `Claude` and `DeepSeek`, to guide the process. They acted as my technical mentors, helping me:
@@ -36,7 +32,7 @@ I didn't build this alone. As a novice, I collaborated extensively with AI assis
 <!--more-->
 ## The "Git" of It All: A Newbie's Hurdle
 
-Speaking of hurdles, my biggest challenge wasn't the code—it was version control. As a GitHub novice, I found the process of commits, pushes, and branches confusing. At one point, I even encountered a cryptic error about "Git LFS" that stopped me in my tracks!
+Speaking of hurdles, my biggest challenge wasn't the code - it was version control. As a GitHub novice, I found the process of commits, pushes, and branches confusing. At one point, I even encountered a cryptic error about "Git LFS" that stopped me in my tracks!
 With patient guidance, I learned to navigate these waters. Figuring out how to successfully deploy the project to GitHub Pages and see it live on the web for the first time was an incredibly satisfying "aha!" moment. It transformed the project from files on my computer into a real, shareable application.
 <!--more-->
 ## What Does It Do?
@@ -50,9 +46,9 @@ This is just Phase 1. I'm currently working on Phase 2, which will add the Decli
 ## Key Takeaway
 
 This project taught me that the best way to learn is to build. It connected abstract coding syntax to a concrete outcome I care about. It also showed me the value of asking for help, whether from AI or the broader developer community.
-Try the calculator for yourself and see the code:
+Try the first iteration of this calculator for yourself and see the code, your feedback is greatly appreciated:
 [Live Depreciation Calculator](https://kiariealexn.github.io/depreciation-calculator/)
 View the Code on [GitHub](https://github.com/kiariealexn/depreciation-calculator)
 <!--more-->
 ---
-I’d love to hear your thoughts or feedback. What concepts from your field would you like to see turned into an app?
+

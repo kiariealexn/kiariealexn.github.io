@@ -80,4 +80,4 @@ NAT Gateway is the one resource in this build that actually costs money - roughl
 
 Subnetting and default routing are core CCNA Course material - just expressed here in AWS instead of Packet Tracer. NAT itself is actually Course 3 (ENSA) territory, so this lab ended up previewing a concept slightly ahead of where my coursework currently sits, which was a useful head start. It's also a reminder that the instincts you build doing audit and controls work - tracing exactly what can access what, and why - mapped directly onto network security design. A security group is, in the end, just an access control matrix.
 
-Next step: automating this build with the AWS CLI or Terraform, so the same topology can be spun up and torn down in seconds instead of clicking through the console.
+Next step: Automating this build with the AWS CLI or Terraform, so the same topology can be spun up and torn down in seconds instead of clicking through the console.

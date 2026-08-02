@@ -5,7 +5,7 @@ permalink: /networking/
 classes: wide
 ---
 
-<p>CCNA labs, router troubleshooting, and cloud/network infrastructure projects.</p>
+<p>CCNA labs, router troubleshooting and cloud/network infrastructure projects.</p>
 
 {% assign section_posts = site.categories.networking %}
 {% for post in section_posts %}

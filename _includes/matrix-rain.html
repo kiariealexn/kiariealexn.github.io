@@ -23,8 +23,8 @@
   var ctx = canvas.getContext('2d');
   var parent = canvas.parentElement;
   var columns, drops;
-  var chars = 'アイウエオカキクケコサシスセソ0123456789ABCDEF';
-  var fontSize = 14;
+  var chars = 'アイウエオカキクケコサシスセソ0123456789ABDEF';
+  var fontSize = 16;
 
   function resize() {
     canvas.width = parent.offsetWidth;
@@ -52,7 +52,7 @@
   // Wait for full page load (layout settled) before first measuring
   window.addEventListener('load', function () {
     resize();
-    setInterval(draw, 70);
+    setInterval(draw, 80);
   });
 
   window.addEventListener('resize', resize);

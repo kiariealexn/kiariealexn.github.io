@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Alex Kiarie"
   avatar : "/assets/images/cropped-edit.jpg"
-  bio    : "Economist. Accountant. Technologist."
+#  bio    : "Finance . Technologist."
   
   links:
     #- label: "Website"

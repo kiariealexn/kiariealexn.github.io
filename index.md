@@ -5,6 +5,7 @@ title: false
 classes: wide
 permalink: /
 ---
+
 <div class="matrix-hero">
   {% include matrix-rain.html %}
   <div class="matrix-hero__content">
@@ -12,9 +13,6 @@ permalink: /
     <p>CPA candidate. Cloud &amp; network builder. Auditor who ships infrastructure.</p>
   </div>
 </div>
-<p style="text-align: center; font-size: 1.3em; font-weight: bold; color: #FFFFFF;">
-  B.A Economics | Sales | IT Operations
-</p>
 
 ---
 
