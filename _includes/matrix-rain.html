@@ -41,13 +41,21 @@
 
     for (var i = 0; i < drops.length; i++) {
       var text = chars[Math.floor(Math.random() * chars.length)];
-      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+      var x = i * fontSize;
+      var y = drops[i] * fontSize;
+
+      ctx.save();
+      ctx.translate(x, y);
+      ctx.scale(0.6, 1);   // squeeze horizontally, leave height untouched
+      ctx.fillText(text, 0, 0);
+      ctx.restore();
+
       if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
         drops[i] = 0;
       }
       drops[i]++;
     }
-  }
+}
 
   // Wait for full page load (layout settled) before first measuring
   window.addEventListener('load', function () {
