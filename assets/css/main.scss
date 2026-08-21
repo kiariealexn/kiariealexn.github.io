@@ -24,6 +24,26 @@ html, body {
   margin-right: calc(-50vw + 50%);
 }
 
+.matrix-hero__content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  color: #E8E6E1;
+  padding: 2em;
+}
+
+.matrix-hero__content h1 {
+  font-size: 2.5em;
+  font-weight: 800;
+  margin-bottom: 0.3em;
+}
+
+.matrix-hero__content p {
+  font-family: $monospace;
+  font-size: 1.1em;
+  opacity: 0.85;
+}
+
 html, body {
   overflow-x: hidden;
 }

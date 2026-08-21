@@ -5,7 +5,7 @@ permalink: /accounting/
 classes: wide
 ---
 
-<p>CPA study notes, finance tooling, and projects at the intersection of accounting and code.</p>
+<p>CPA journey, finance tooling and projects at the intersection of accounting and code.</p>
 
 {% assign section_posts = site.categories.accounting %}
 {% for post in section_posts %}
