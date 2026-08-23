@@ -2,6 +2,7 @@
 title: "Building a Production-Grade Depreciation Calculator: CPA-Standard Accounting Meets Full-Stack Development"
 excerpt_separator: "<!--more-->"
 date: 2026-01-08
+permalink: /accounting/finance/web-development/building-depreciation-calculator/
 categories: [Accounting,Finance,Web Development]
 tags: [CPA,depreciation,calculator,JavaScript,finance-tech]
 excerpt: "How I built a professional-grade depreciation calculator supporting three CPA-standard accounting methods with interactive visualizations."
@@ -37,13 +38,15 @@ Straight-Line assumes an asset loses value uniformly. It's simple, predictable, 
 - Declining Balance 200% Rate: 2 ÷ Useful Life = $4,000 (most aggressive)
 - Declining Balance 150% Rate: 1.5 ÷ Useful Life = $3,000 (moderate acceleration)
 
-Declining Balance mirrors reality for many assets - a vehicle loses significant value in year one. It's also tax-advantaged: larger deductions early mean smaller tax bills now.
+Declining Balance mirrors reality for many assets and is preferred for tax planning and for assets that depreciate quickly (vehicles, equipment, computers) - a vehicle loses significant value in year one. It's also tax-advantaged: larger deductions early mean smaller tax bills now.
 
 ### Sum-of-the-Years-Digits (SYD): The Middle Path
-**Formula:** Sum of Years = n + (n-1) + (n-2) + ... + 1
-`Year k Depreciation = (Remaining Years / Sum) × Depreciable Base
-Year k Depreciation = (Remaining Years ÷ Sum of Years) × Depreciable Base`
+**Formula:** 
+```
+Sum of Years = n + (n-1) + (n-2) + ... + 1
 
+Year k Depreciation = (Remaining Years /Sum of Years) × Depreciable Base 
+```
 **For our 5-year asset (Sum = 15):**
 ```
 - Year 1: (5/15) × $9,000 = $3,000
@@ -57,8 +60,9 @@ SYD is the "middle path" - more realistic than Straight-Line, less aggressive th
 
 ## The Architecture: Code Meets Accounting Standards
 
-Each depreciation method is a pure function, taking asset data and returning structured results:
 **Key design decisions:**
+
+Each depreciation method is a pure function, taking asset data and returning structured results:
 ```
 Pure functions: No DOM manipulation - each function returns structured results
 
@@ -69,9 +73,9 @@ Salvage value floor: Ensures we never depreciate below salvage value
 2-decimal precision: Matches CPA accounting standards using .toFixed(2)
 ```
 **Interactive Visualizations: UI Integration with Chart.js**
-```
-The calculator supports comparing multiple methods side-by-side with three visualization types:
 
+The calculator supports comparing multiple methods side-by-side with three visualization types:
+```
 Annual Depreciation Chart: Shows which method writes off largest expenses each year
 
 Book Value Chart: Visualizes asset-value decline under each method
@@ -81,16 +85,16 @@ Multi-method Comparison: See all methods overlaid for clear differentiation
 **Edge Cases: Why Testing Matters**
 
 Building a production-grade calculator means handling edge cases that real accountants encounter:
-
+```
 Test Case 1: Partial-Year Assets - Companies don't always acquire assets on January 1. The calculator must handle mid-year acquisitions.
+
 Test Case 2: High Salvage Values - Some assets retain significant value (e.g., used equipment resale). Depreciable base is cost minus salvage, not the full cost.
-Test Case 3: Method Comparison Validation
 
-For the same asset, all three methods should:
-
-* Depreciate to the same ending value (salvage value)
-* Show Year 1 relationship: DB 200% > SYD > Straight-Line
-
+Test Case 3: Method Comparison Validation. For the same asset, all three methods should:
+            * Depreciate to the same ending value (salvage value)
+            * Show Year 1 relationship: DB 200% > SYD > Straight-Line            
+            
+```
 <!--more-->
 
 ## Key Takeaway
@@ -100,7 +104,9 @@ This project taught me that the best way to learn is to build. The three methods
 
 ## What's Next
 Phase 3 (In Progress): Interactive charts and method comparison visualization
+
 Phase 4: Export to PDF and Excel for audit trails
+
 Phase 5: Tax impact analysis (showing deduction differences by method)
 
 Try the first iteration of this calculator for yourself. This tool was built to help me learn and I'd love to hear how it could be more useful for other aspiring CPAs. Your feedback is greatly appreciated:
