@@ -5,13 +5,18 @@ permalink: /accounting/
 classes: wide
 ---
 
-<p>CPA journey, finance tooling and projects at the intersection of accounting and code.</p>
+CPA journey, finance tooling and projects at the intersection of accounting and code.
 
-{% assign section_posts = site.categories.accounting %}
+{% assign section_posts = site.posts | where_exp: "post", "post.categories contains 'Accounting'" %}
 {% for post in section_posts %}
-  <div class="log-entry">
-    <p class="log-entry__meta">LOG · {{ post.date | date: "%Y-%m-%d" }} · {{ post.categories | join: "/" }}</p>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <article>
+    <h2>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <p class="page__meta">
+      <i class="far fa-calendar"></i> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </p>
     <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-  </div>
+    <a href="{{ post.url }}" class="btn btn--primary">Read more</a>
+  </article>
 {% endfor %}
