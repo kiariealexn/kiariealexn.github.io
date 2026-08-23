@@ -1,7 +1,7 @@
 ---
 title: "Building a Production-Grade Depreciation Calculator: CPA-Standard Accounting Meets Full-Stack Development"
 excerpt_separator: "<!--more-->"
-date: 2026-01-08
+date: 2026-08-23
 permalink: /accounting/finance/web-development/building-depreciation-calculator/
 categories: [Accounting,Finance,Web Development]
 tags: [CPA,depreciation,calculator,JavaScript,finance-tech]
