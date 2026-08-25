@@ -26,18 +26,18 @@ A perfect example of this intersection in action is a project I've just deployed
 
 ## 🎯 Why This Convergence Matters
 The future of finance is unequivocally tech-enabled. Whether in fintech, automated accounting, or advanced data analysis, the professionals who will lead are those fluent in both the language of business logic and the language of technical implementation.
-I'm committed to building projects that bridge this gap—creating tools that solve real financial and operational challenges with modern, accessible technology.
+I'm committed to building projects that bridge this gap-creating tools that solve real financial and operational challenges with modern, accessible technology.
 <!--more-->
 
 ## What's Next?
 My plan is simple: build things, break things, learn from both. I'm documenting my journey here - the wins, the struggles, the "why won't this code work" moments at 2 AM.
 I'm particularly interested in exploring:
-  * Web development fundamentals
+  * Finance/Fintech
   * Cloud technologies (building on my AWS knowledge)
   * Cybersecurity principles in software design
-  * How finance and fintech intersect with development.
+  * Web development fundamentals
 
-This blog will document that journey—the process, the hurdles, and the insights.
+This blog will document that journey - the process, the hurdles, and the insights.
 
 If you're a finance professional curious about technology, a developer interested in the "why" behind fintech, or on a similar path of synthesis, I invite you to follow along. Let's connect and build something insightful.
 <!--more-->

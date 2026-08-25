@@ -10,20 +10,16 @@ permalink: /
   {% include matrix-rain.html %}
   <div class="matrix-hero__content">
     <h1>Alex Kiarie</h1>
-    <p>CPA. Cloud &amp; network builder. Auditor who ships infrastructure.</p>
+    <p>Economics Grad .CPA .Cloud Practitioner .CCNA .Cybersec</p>
   </div>
 </div>
 
 ---
 
-# Hi, I'm Alex Kiarie
-
-IT and finance professional building at the intersection of accounting, sales, and technology - CPA, AWS Cloud Practitioner, CCNA.
-
 <div class="section-preview-grid">
   <a href="/accounting/" class="section-preview-card">
     <h3>Accounting</h3>
-    <p>CPA study notes, finance tooling, and projects at the intersection of accounting and code.</p>
+    <p>Finance tooling and projects at the intersection of accounting and code.</p>
   </a>
   <a href="/networking/" class="section-preview-card">
     <h3>Networking</h3>
@@ -46,13 +42,13 @@ IT and finance professional building at the intersection of accounting, sales, a
 
 ## Currently Building
 
-**Depreciation Calculator** - professional web tool for asset depreciation analysis. Phase 1 complete; adding Chart.js visualizations next.
+**Depreciation Calculator** - professional web tool for asset depreciation analysis. 
 
 ## Stack
 
 **Finance:** CPA(KASNEB), Economics background
 **Languages:** JavaScript, HTML, CSS
-**Cloud & Infra:** AWS (S3, CloudFront, Route 53, EC2, VPC), GitHub Actions
+**Cloud & Infrastructure:** AWS (S3, CloudFront, Route 53, EC2, VPC), GitHub Actions
 **Networking:** CCNA (Enterprise Networking, Security, and Automation)
 
 
